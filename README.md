@@ -1,1 +1,1 @@
-To save the comment in blog using Gitment
+To save the comment in blog using Gittalk.
